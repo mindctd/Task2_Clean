@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 # อ่านข้อมูล
-df = pd.read_csv('D:\Download\SDG_Indicator_9.1.3_Industry__Innovation_and_Infrastructure_20241112.csv')  
+df = pd.read_csv('E:\JOB\Task2_Clean\cleaned_dataset.csv')  
 
 # 1. เติมเต็ม Missing Values
 # เติมค่าข้อมูลตัวเลขที่ขาดหายด้วยค่าเฉลี่ย
