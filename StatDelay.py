@@ -4,7 +4,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # โหลดข้อมูล
-data = pd.read_csv("E:/JOB/Task2_Clean/cleaned_dataset.csv")
+data = pd.read_csv("D:\pandas_task2\cleaned_dataset.csv")
 
 # ฟังก์ชันสำหรับคำนวณสถิติหลัก
 def calculate_statistics(column):
